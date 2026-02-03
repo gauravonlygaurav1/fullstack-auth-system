@@ -21,6 +21,26 @@ This project demonstrates how modern applications implement **secure authenticat
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Signup Page
+![Signup Page](screenshots/signup-page.png)
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Profile Page
+![Profile Page](screenshots/profile-page.png)
+
+
+---
+
 ## 🧠 System Architecture Overview
 
 [React Frontend]-> [JWT Access Token]-> [Spring Boot API]-> [MySQL Database]
