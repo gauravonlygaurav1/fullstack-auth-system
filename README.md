@@ -24,19 +24,19 @@ This project demonstrates how modern applications implement **secure authenticat
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/home-page.PNG)
 
 ### Signup Page
-![Signup Page](screenshots/signup-page.png)
+![Signup Page](screenshots/signup-page.PNG)
 
 ### Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/login-page.PNG)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Profile Page
-![Profile Page](screenshots/profile-page.png)
+![Profile Page](screenshots/profile-page.PNG)
 
 
 ---
