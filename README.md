@@ -22,18 +22,8 @@ This project demonstrates how modern applications implement **secure authenticat
 ---
 
 ## 🧠 System Architecture Overview
-[ React Frontend ]
-    |
-    v    
-[ JWT Access Token ]
-    |
-    v
-[ Spring Boot API ]
-    |
-    v
-[ MySQL Database ]
 
-
+[React Frontend]-> [JWT Access Token]-> [Spring Boot API]-> [MySQL Database]
 
 ### Flow Explanation
 - The frontend communicates with the backend using secure REST APIs  
