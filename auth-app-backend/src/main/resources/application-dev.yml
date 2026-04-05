@@ -5,8 +5,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/auth_app
-    username: root
-    password: hcl2gmail.com
+    username: ${DB_USERNAME:your_username}
+    password: ${DB_PASSWORD:your_password}
 
 #  hikari:
 #    pool-name: HikariCp
