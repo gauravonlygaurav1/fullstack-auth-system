@@ -1,4 +1,4 @@
-# 🔐 Full-Stack Authentication System
+# 🔐 Full-Stack Authentication System - React + Vite + SpringBoot
 
 A **secure, production-style full-stack authentication system** built using **React, TypeScript, Tailwind CSS, Shadcn UI, Spring Boot, Spring Security, JWT, OAuth2, and MySQL**.
 
